@@ -482,11 +482,11 @@
 		11FA5C5B1C4A1296003AC2EE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../ios/Pods/GoogleMaps";
+				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../../ios/Pods/GoogleMaps";
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../react-native/Libraries/Image",
-					"${SRCROOT}/../../../ios/Pods/Google-Maps-iOS-Utils",
+					"${SRCROOT}/../../../../ios/Pods/Google-Maps-iOS-Utils",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				OTHER_LDFLAGS = "-ObjC";
@@ -498,11 +498,11 @@
 		11FA5C5C1C4A1296003AC2EE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../ios/Pods/GoogleMaps";
+				FRAMEWORK_SEARCH_PATHS = "${SRCROOT}/../../../../ios/Pods/GoogleMaps";
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../react-native/Libraries/Image",
-					"${SRCROOT}/../../../ios/Pods/Google-Maps-iOS-Utils",
+					"${SRCROOT}/../../../../ios/Pods/Google-Maps-iOS-Utils",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				OTHER_LDFLAGS = "-ObjC";
